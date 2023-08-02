@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>CopyAssist V1.0</string>
+   <string>CopyAssist V1.1</string>
   </property>
   <property name="styleSheet">
    <string notr="true"/>
@@ -29,7 +29,7 @@
      <height>10000</height>
     </size>
    </property>
-   <layout class="QVBoxLayout" name="verticalLayout" stretch="30,3,2">
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="30,0,0">
     <item>
      <layout class="QHBoxLayout" name="horizontalLayout_2">
       <item>
@@ -239,6 +239,7 @@
            </property>
            <property name="font">
             <font>
+             <family>Adobe Arabic</family>
              <pointsize>16</pointsize>
              <italic>false</italic>
              <bold>false</bold>
@@ -268,6 +269,7 @@
            </property>
            <property name="font">
             <font>
+             <family>等线</family>
              <pointsize>10</pointsize>
              <italic>false</italic>
              <bold>false</bold>
